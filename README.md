@@ -22,19 +22,19 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
 
-**2. What is the leading cause of downtime between operator and non-operator sources?**
+### 2. What is the leading cause of downtime between operator and non-operator sources?
 ![Insight 2.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%202.jpg)
 
 > Operators were the leading cause of downtime.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
-**3. What drives downtime across operators?**
+### 3. What drives downtime across operators?
 ![Insight 3.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%203.jpg)
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
   
-**4. Which factors account for most of the downtime?**
+### 4. Which factors account for most of the downtime?
 ![Insight 4.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%204.jpg)
 
 > Five factors caused 80% of downtime; three are linked to operator errors.
@@ -42,13 +42,13 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - **Machine Failure**: *Leverage preventive maintenance schedules to minimize or predict machine failure. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).*
 - **Inventory Shortage**: *Implement real-time tracking systems or forecasting methods to maintain optimal stock levels.*
 
-**5. How efficient are the operators overall?**
+### 5. How efficient are the operators overall?
 ![Insight 5.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%205.jpg)
 
 > Mac's efficiency is slightly below the overall average of all operators.
 - *Provide Mac with focused coaching on batch changes to raise efficiency to peer level.*
 
-## Additional Project Materials & Notes
+#### Additional Project Materials & Notes
 - Power BI Report
 ![manufacturing downtime report.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis-/blob/main/manufacturing%20downtime%20report.jpg)
 
