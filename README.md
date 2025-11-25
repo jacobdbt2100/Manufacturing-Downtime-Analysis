@@ -23,14 +23,13 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
 
 ### 2. What is the leading cause of downtime between operator and non-operator sources?
-
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 2.jpg" width="500">
 
 > Operators were the leading cause of downtime.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
 ### 3. What drives downtime across operators?
-![Insight 3.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%203.jpg)
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 3.jpg" width="500">
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
