@@ -23,6 +23,9 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
 
 ### 2. What is the leading cause of downtime between operator and non-operator sources?
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 2.jpg" width="300">
+
 ![Insight 2.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%202.jpg)
 
 > Operators were the leading cause of downtime.
