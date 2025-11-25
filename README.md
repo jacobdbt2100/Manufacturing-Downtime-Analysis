@@ -16,7 +16,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - Power BI: Data modelling, DAX measures, calculated columns, interactive dashboard design.
 
 ## Insights & Recommendation:
-**1. How does downtime impact production targets?**
+## 1. How does downtime impact production targets?
 ![Insight 1.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%201.jpg)
 
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
