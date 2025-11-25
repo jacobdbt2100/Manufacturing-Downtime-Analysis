@@ -53,3 +53,5 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - Schema View
 - Line downtime (Fact table) Transformation
 - Line productivity (Fact table) Transformation
+
+[Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
