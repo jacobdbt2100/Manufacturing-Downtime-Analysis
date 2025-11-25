@@ -17,7 +17,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 
 ## Insights & Recommendation:
 ### 1. How does downtime impact production targets?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 1.jpg" width="500">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 1.jpg" width="700">
 
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
