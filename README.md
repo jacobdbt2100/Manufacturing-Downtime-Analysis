@@ -29,7 +29,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
 ### 3. What drives downtime across operators?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 3.jpg" width="600">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 3.jpg" width="700">
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
