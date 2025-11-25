@@ -3,20 +3,20 @@
 ## Executive Summary:
 Using Power Query and Power BI, I analyzed soda bottling production line data and found that downtime caused a 36% inefficiency, extending batch duration by 23 hours. Operator errors were the leading drivers. Five factors–mainly machine adjustments, machine failure, and inventory shortage amongst others–accounted for 80% of total downtime. Base on these findings, I recommended targeted operator training, improved maintenance schedules, real-time inventory tracking, and high-downtime equipment upgrades to boost operational efficiency.
 
-### Business Problem:
+## Business Problem:
 For manufacturing companies, downtime directly impacts output and profitability. In this soda bottling plant, management noticed frequent production delays but lacked clear insights into the main causes. The goal was to analyze downtime data to identify key drivers and propose actionable strategies to reduce downtime.
 
-### Methodology:
+## Methodology:
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
 2. Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
 3. Visualised downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
-### Skills:
+## Skills:
 - Power Query: ETL, aggregation, unpivot.
 - Power BI: Data modelling, DAX measures, calculated columns, interactive dashboard design.
 
 ## Insights & Recommendation:
-## 1. How does downtime impact production targets?
+### 1. How does downtime impact production targets?
 ![Insight 1.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%201.jpg)
 
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
