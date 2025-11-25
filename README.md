@@ -35,7 +35,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
   
 ### 4. Which factors account for most of the downtime?
-![Insight 4.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis/blob/main/Insight%204.jpg)
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 4.jpg" width="500">
 
 > Five factors caused 80% of downtime; three are linked to operator errors.
 - **Machine adjustment, Batch change, and Batch coding**: *Provide targeted training for operators.*
