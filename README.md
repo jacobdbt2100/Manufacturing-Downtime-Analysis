@@ -49,8 +49,6 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - *Provide Mac with focused coaching on batch changes to raise efficiency to peer level.*
 
 #### Additional Project Materials & Notes
-- Power BI Report
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing%20downtime%20report.jpg" width="500">
 
 - Schema View
 - Line downtime (Fact table) Transformation
