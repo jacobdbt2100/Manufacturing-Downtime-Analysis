@@ -18,25 +18,25 @@ For manufacturing companies, downtime directly impacts output and profitability.
 
 ## Insights & Recommendation:
 ### 1. How does downtime impact production targets?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 1.jpg" width="800">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/1_key metrics.jpg" width="800">
 
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
 
 ### 2. What is the leading cause of downtime between operator and non-operator sources?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 2.jpg" width="450">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
 
 > Operators were the leading cause of downtime.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
 ### 3. What drives downtime across operators?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 3.jpg" width="700">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/3_process handling.jpg" width="700">
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
   
 ### 4. Which factors account for most of the downtime?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 4.jpg" width="750">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/4_major causes.jpg" width="750">
 
 > Five factors caused 80% of downtime; three are linked to operator errors.
 - **Machine adjustment, Batch change, and Batch coding**: *Provide targeted training for operators.*
@@ -44,7 +44,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - **Inventory Shortage**: *Implement real-time tracking systems or forecasting methods to maintain optimal stock levels.*
 
 ### 5. How efficient are the operators overall?
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Insight 5.jpg" width="300">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="300">
 
 > Mac's efficiency is slightly below the overall average of all operators.
 - *Provide Mac with focused coaching on batch changes to raise efficiency to peer level.*
