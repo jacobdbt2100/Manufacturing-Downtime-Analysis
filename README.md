@@ -54,7 +54,7 @@ ___
 ### `Additional Notes`
 
 #### `Model View:`
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png " width="500">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/model view.png " width="500">
 
 #### `Line downtime table` Transformation:
 
