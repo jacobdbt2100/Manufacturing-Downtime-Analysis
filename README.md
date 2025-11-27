@@ -54,15 +54,14 @@ ___
 ### `Additional Notes`
 
 #### `Model View:`
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png " width="300">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png " width="500">
 
 #### `Line downtime table` Transformation:
 
 - **`before transformation`**
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="300">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="500">
 
 - **`after unpivoting`**
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ unpivoted.png" width="300">
-
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ unpivoted.png" width="500">
 
 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
