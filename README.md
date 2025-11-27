@@ -51,8 +51,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 #### Additional Project Materials & Notes
 
 - Schema View
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png
-" width="300">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png " width="300">
 
 - Line downtime (Fact table) Transformation
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="300">
