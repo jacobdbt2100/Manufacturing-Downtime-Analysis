@@ -48,15 +48,19 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > Mac's efficiency is slightly below the overall average of all operators.
 - *Provide Mac with focused coaching on batch changes to raise efficiency to peer level.*
 
-#### Additional Project Materials & Notes
+___
 
-- Schema View
+### `Additional Notes`
+
+#### `Model View:`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime model view.png " width="300">
 
-- Line downtime (Fact table) Transformation
+#### `Line downtime table` Transformation:
+
+- **`before transformation`**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="300">
 
-- Line productivity (Fact table) Transformation
+- **`after unpivoting`**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ unpivoted.png" width="300">
 
 
