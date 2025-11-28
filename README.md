@@ -10,7 +10,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 ## Methodology:
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
 2. Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
-3. Visualised downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
+3. Visualized downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
 ## Skills:
 - Power Query: ETL, aggregation, unpivot.
