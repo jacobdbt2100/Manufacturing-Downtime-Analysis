@@ -29,7 +29,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > Operators were the leading cause of downtime.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
-### 3. What drives downtime across operators?
+### 3. Downtime causes vary across operators.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/3_process handling.jpg" width="700">
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
