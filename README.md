@@ -23,7 +23,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
 - *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
 
-### 2. What is the leading cause of downtime between operator and non-operator sources?
+### 2. Operator-related issues are the leading cause of downtime.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
 
 > Operators were the leading cause of downtime.
