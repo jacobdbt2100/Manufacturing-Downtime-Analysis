@@ -43,7 +43,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 - **Machine Failure**: *Leverage preventive maintenance schedules to minimize or predict machine failure. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).*
 - **Inventory Shortage**: *Implement real-time tracking systems or forecasting methods to maintain optimal stock levels.*
 
-### 5. How efficient are the operators overall?
+### 5. Operator efficiency shows slight performance differences.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="300">
 
 > Mac's efficiency is slightly below the overall average of all operators.
