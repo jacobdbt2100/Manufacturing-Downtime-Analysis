@@ -26,7 +26,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 ### 2. Operator-related issues are the leading cause of downtime.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
 
-> Operators were the leading cause of downtime.
+> Operators extended batch time by 12% higher than non-operator causes.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
 ### 3. Downtime causes vary across operators.
