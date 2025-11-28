@@ -35,7 +35,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
 - *Prioritize batch change training for Mac and machine adjustment training for other operators.*
   
-### 4. Which factors account for most of the downtime?
+### 4. A few key factors account for most downtime.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/4_major causes.jpg" width="750">
 
 > Five factors caused 80% of downtime; three are linked to operator errors.
