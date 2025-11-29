@@ -14,7 +14,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 
 ## Skills:
 - Power Query: ETL, aggregation, unpivot.
-- Power BI: Data modelling, DAX measures, calculated columns, report design.
+- Power BI: Data modelling, DAX measures, calculated columns, data visualization.
 
 ## Insights & Recommendation:
 ### 1. Downtime causes significant delays, extending batch duration by 23 hours.
