@@ -29,7 +29,7 @@ For manufacturing companies, downtime directly impacts output and profitability.
 > Operators extended batch time by 12% higher than non-operator causes.
 - *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
 
-### 3. Downtime causes vary across operators.
+### 3. Downtime causes vary significantly across operators.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/3_process handling.jpg" width="700">
 
 > Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
