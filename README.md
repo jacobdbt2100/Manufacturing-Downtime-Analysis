@@ -7,7 +7,9 @@ I analysed soda bottling production line data and found that downtime caused 36%
 Base on these findings, I recommend targeted operator training, improved maintenance schedules, real-time inventory tracking, and high-downtime equipment upgrades to boost operational efficiency.
 
 ## Business Problem:
-For manufacturing companies, downtime directly impacts output and profitability. In this soda bottling plant, management noticed frequent production delays but lacked clear insights into the main causes. The goal was to analyze downtime data to identify key drivers and propose actionable strategies to reduce downtime.
+For manufacturing companies, downtime directly impacts output and profitability. In this soda bottling plant, management noticed frequent production delays but lacked clear insights into the main causes.
+
+The goal is to analyze downtime data to identify key drivers and propose actionable strategies to reduce downtime.
 
 ## Methodology:
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
