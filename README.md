@@ -9,7 +9,7 @@ Base on these findings, I recommend targeted operator training, improved mainten
 ## Business Problem:
 For manufacturing companies, downtime directly impacts output and profitability. In this soda bottling plant, management noticed frequent production delays but lacked clear insights into the main causes.
 
-The goal is to analyze downtime data to identify key drivers and propose actionable strategies to reduce downtime.
+This analysis aimed to identify key drivers of downtime and propose actionable strategies to reduce operational disruptions.
 
 ## Methodology:
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
