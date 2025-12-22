@@ -17,8 +17,8 @@ The goal is to analyze downtime data to identify key drivers and propose actiona
 3. Visualized downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
 ## Skills:
-- Power Query: ETL, aggregation, unpivot.
-- Power BI: Data modelling, DAX measures, calculated columns, data visualization.
+- Power Query: Data extraction & transformation, aggregation, unpivot
+- Power BI: Data modelling, DAX measures, calculated columns, data visualization
 
 ## Insights & Recommendation:
 ### 1. Downtime causes significant delays, extending batch duration by 23 hours.
