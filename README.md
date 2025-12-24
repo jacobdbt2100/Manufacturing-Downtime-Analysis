@@ -55,7 +55,7 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 
 ___
 
-### `Additional Notes`
+### `Additional Materials`
 
 #### `Manufacturing Downtime Report:`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="500">
