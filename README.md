@@ -59,7 +59,7 @@ ___
 #### `Model View:`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/model view.png " width="500">
 
-#### `Line downtime table` Transformation:
+#### `Line downtime table` transformation:
 
 - **`before transformation`**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="500">
