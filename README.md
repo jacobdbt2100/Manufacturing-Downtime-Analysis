@@ -21,37 +21,33 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 - Power BI: Data modelling, DAX measures, calculated columns, data visualization
 
 ## Insights & Recommendation:
-### 1. Downtime causes significant delays, extending batch duration by 23 hours.
+
+1. **36% downtime inefficiency** extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/1_key metrics.jpg" width="800">
 
-> 36% downtime inefficiency extended batch duration by 23 hrs (1388 minutes) from a planned batch time of 41 hrs (2470 minutes).
-- *Reduce downtime to meet delivery schedules and protect customer trust and sales.*
+> - Reduce downtime to meet delivery schedules and protect customer trust and sales.
 
-### 2. Operator-related issues are the leading cause of downtime.
+2. **Operators** extended batch time by **12% higher** than non-operator causes.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
 
-> Operators extended batch time by 12% higher than non-operator causes.
-- *Provide targeted operator training and clear standard operating procedures (SOPs) to reduce errors.*
+> - Provide **targeted operator training** and clear standard operating procedures (SOPs) to reduce errors.
 
-### 3. Downtime causes vary significantly across operators.
+3. Mac's downtime is mainly due to **batch changes**, while other operators struggle with **machine adjustments**.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/3_process handling.jpg" width="700">
 
-> Mac's downtime is mainly due to batch changes, while other operators struggle with machine adjustments.
-- *Prioritize batch change training for Mac and machine adjustment training for other operators.*
+> - Prioritise batch change training for Mac and machine adjustment training for other operators.
   
-### 4. A few key factors account for most downtime.
+4. Five factors caused **80% of downtime**; three (Machine adjustment, Batch change, and Batch coding) are linked to operator errors.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/4_major causes.jpg" width="750">
 
-> Five factors caused 80% of downtime; three are linked to operator errors.
-- **Machine adjustment, Batch change, and Batch coding**: *Provide targeted training for operators.*
-- **Machine Failure**: *Leverage preventive maintenance schedules to minimize or predict machine failure. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).*
-- **Inventory Shortage**: *Implement real-time tracking systems or forecasting methods to maintain optimal stock levels.*
+> - Provide targeted training for operators on **Machine adjustment, Batch change, and Batch coding**.
+> - Leverage preventive maintenance schedules to **minimize or predict machine failure**. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).
+> - Implement real-time tracking systems or forecasting methods to maintain **optimal stock levels**.
 
-### 5. Operator efficiency shows slight performance differences.
+5. **Mac's efficiency** is slightly **below the overall average** of all operators.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="300">
 
-> Mac's efficiency is slightly below the overall average of all operators.
-- *Provide Mac with focused coaching on batch changes to raise efficiency to peer level.*
+> - Provide Mac with focused coaching on batch changes to raise efficiency to peer level.
 
 ___
 
