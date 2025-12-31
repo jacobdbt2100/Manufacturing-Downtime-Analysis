@@ -31,7 +31,7 @@ ___
 ___
 
 2. **Operators** extended batch time by **12% higher** than non-operator causes.
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="400">
 
 - Provide **targeted operator training** and clear standard operating procedures (SOPs) to reduce errors.
 ___
