@@ -51,7 +51,7 @@ ___
 ___
 
 5. **Mac's efficiency** is slightly **below the overall average** of all operators.
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="300">
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="500">
 
 - Provide Mac with focused coaching on batch changes to raise efficiency to peer level.
 ___
