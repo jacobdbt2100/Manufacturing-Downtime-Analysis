@@ -22,6 +22,7 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 - Power BI: Data modelling, DAX measures, calculated columns, data visualization
 
 ## Insights & Recommendation:
+__
 
 1. **36% downtime inefficiency** extended batch duration by **23 hrs** (1,388 minutes) from a planned batch time of 41 hrs (2,470 minutes).
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/1_key metrics.jpg" width="800">
