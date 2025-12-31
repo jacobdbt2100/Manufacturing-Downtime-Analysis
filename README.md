@@ -27,13 +27,13 @@ ___
 1. **36% downtime inefficiency** extended batch duration by **23 hrs** (1,388 minutes) from a planned batch time of 41 hrs (2,470 minutes).
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/1_key metrics.jpg" width="800">
 
-> - Reduce downtime to meet delivery schedules and protect customer trust and sales.
+- Reduce downtime to meet delivery schedules and protect customer trust and sales.
 ___
 
 2. **Operators** extended batch time by **12% higher** than non-operator causes.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/2_operator vs non-operator errors.jpg" width="450">
 
-> - Provide **targeted operator training** and clear standard operating procedures (SOPs) to reduce errors.
+- Provide **targeted operator training** and clear standard operating procedures (SOPs) to reduce errors.
 ___
 
 3. Mac's downtime is mainly due to **batch changes**, while other operators struggle with **machine adjustments**.
