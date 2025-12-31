@@ -24,7 +24,7 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 ## Insights & Recommendation:
 ___
 
-**1.** **36% downtime inefficiency** extended batch duration by **23 hrs** (1,388 minutes) from a planned batch time of 41 hrs (2,470 minutes).
+1. **36% downtime inefficiency** extended batch duration by **23 hrs** (1,388 minutes) from a planned batch time of 41 hrs (2,470 minutes).
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/1_key metrics.jpg" width="800">
 
 - Reduce downtime to meet delivery schedules and protect customer trust and sales.
@@ -39,20 +39,21 @@ ___
 3. Mac's downtime is mainly due to **batch changes**, while other operators struggle with **machine adjustments**.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/3_process handling.jpg" width="700">
 
-> - Prioritise batch change training for Mac and machine adjustment training for other operators.
-  
+- Prioritise batch change training for Mac and machine adjustment training for other operators.
+___
+
 4. Five factors caused **80% of downtime**; three (Machine adjustment, Batch change, and Batch coding) are linked to operator errors.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/4_major causes.jpg" width="750">
 
-> - Provide targeted training for operators on **Machine adjustment, Batch change, and Batch coding**.
-> - Leverage preventive maintenance schedules to **minimize or predict machine failure**. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).
-> - Implement real-time tracking systems or forecasting methods to maintain **optimal stock levels**.
+- Provide targeted training for operators on **Machine adjustment, Batch change, and Batch coding**.
+- Leverage preventive maintenance schedules to **minimize or predict machine failure**. Additionally, Upgrade or replace aging equipment with high downtime (need more data to ascertain age of equipment).
+- Implement real-time tracking systems or forecasting methods to maintain **optimal stock levels**.
+___
 
 5. **Mac's efficiency** is slightly **below the overall average** of all operators.
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/5_operators efficiency.jpg" width="300">
 
-> - Provide Mac with focused coaching on batch changes to raise efficiency to peer level.
-
+- Provide Mac with focused coaching on batch changes to raise efficiency to peer level.
 ___
 
 ### `Additional Materials`
