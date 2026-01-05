@@ -18,10 +18,10 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 4. Visualized downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
 ## Skills:
-- Power Query: Data transformation
-- DAX: metrics calculations
-- Power BI: data visualization
-- PowerPoint: data storytelling
+- **Power Query:** Data transformation
+- **DAX:** metrics calculations
+- **Power BI:** data visualization
+- **PowerPoint:** data storytelling
 
 ## Insights & Recommendation:
 ___
