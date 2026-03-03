@@ -63,7 +63,7 @@ ___
 
 #### Miscellaneous:
 
-#### 1.1 `Line downtime table` transformation
+##### 1.1 `Line downtime table` transformation
 
 - **raw** `Line downtime table`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table_raw.png" width="500">
@@ -71,4 +71,4 @@ ___
 - `Line downtime table` **after unpivoting**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table_unpivoted.png" width="500">
 
-#### 1.2 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
+##### 1.2 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
