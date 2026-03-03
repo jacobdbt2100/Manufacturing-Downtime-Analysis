@@ -7,7 +7,7 @@ Downtime caused **36% inefficiency**, extending batch duration by **23 hours (1,
 I recommend targeted operator training on high-impact error drivers, focused coaching for Mac on batch changes, strengthened preventive maintenance for high-downtime equipment, and real-time tracking to protect delivery schedules and stock levels.
 
 ## Business Problem:
-For manufacturing companies, downtime directly impacts output and profitability. This results in frequent production delays without clear insights into the main causes.
+For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear insights into the main causes.
 
 This analysis identifies key drivers of downtime and propose actionable strategies to reduce operational disruptions.
 
