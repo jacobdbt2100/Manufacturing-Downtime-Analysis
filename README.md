@@ -49,7 +49,7 @@ ___
 
 #### Miscellaneous:
 
-#### `Line downtime table` transformation
+#### 1.1 `Line downtime table` transformation
 
 - **raw** `Line downtime table`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table_raw.png" width="500">
