@@ -15,6 +15,20 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 
 ## Methodology:
 
+### 1. Data Preparation
+Imported four Excel tables, cleaned and transformed data in Power Query.
+
+### 2. Data Modelling
+Designed relationships, structured fact/dimension logic, and validated model integrity.
+
+### 3. KPI Development (DAX)
+Built explicit measures and applied context-driven calculations.
+
+### 4. Exploratory Analysis
+Analysed trends, segments, and drivers across key dimensions.
+OR
+Explored trends, segments, and performance drivers to answer business questions.
+
 1. Extracted and transformed production downtime records using Power Query, ensuring data quality and standardised categorisation.
 2. Designed a structured data model in Power BI to enable factor-level, operator-level, and efficiency analysis.
 3. Defined key operational metrics (downtime minutes, downtime %, operator efficiency, Pareto distribution) to quantify impact.
