@@ -25,9 +25,6 @@ ___
 
 ### Miscellaneous:
 
-#### Model View
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/model view.png " width="500">
-
 #### `Line downtime table` transformation
 
 - **raw** `Line downtime table`
