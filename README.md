@@ -8,9 +8,9 @@ Production downtime **reduced efficiency** by **36%**, with operator-related iss
 Recommended actions include **targeted operator training** supported by clear SOPs, focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
 
 ## Business Problem:
-For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear insights into the main causes.
+For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear visibility into the main causes.
 
-This analysis identifies key drivers of downtime and propose actionable strategies to reduce operational disruptions.
+This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
 
 ## Methodology:
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
