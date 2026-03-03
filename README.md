@@ -24,6 +24,8 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 - **PowerPoint:** data storytelling
 
 ## Insights & Recommendation:
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="800">
 ___
 
 1. **36% downtime inefficiency** extended batch duration by **23 hrs** (1,388 minutes) from a planned batch time of 41 hrs (2,470 minutes).
