@@ -2,9 +2,10 @@
 ___
 
 ## Executive Summary:
-Downtime caused **36% inefficiency**, extending batch duration by **23 hours (1,388 minutes)** beyond the planned **41 hours**, increasing delivery risk. Operator-related issues drove downtime **12% higher** than non-operator causes, with **five factors accounting for 80% of total downtime**, three (**Machine adjustment, Batch change, Batch coding**) linked to operator error. Mac’s downtime is mainly driven by batch changes, while other operators struggle more with machine adjustments, leaving Mac’s efficiency slightly below the team average.
 
-I recommend targeted operator training on high-impact error drivers, focused coaching for Mac on batch changes, strengthened preventive maintenance for high-downtime equipment, and real-time tracking to protect delivery schedules and stock levels.
+Production downtime **reduced efficiency** by **36%**, with **operator-related** issues contributing **12% more downtime than non-operator causes**. **Five factors** account for **80% of total downtime**, three (machine adjustment, batch change, batch coding) linked to operator errors. Mac’s downtime is mainly driven by **batch changes**, while other operators struggle more with **machine adjustments**. Average operator efficiency stands at 76%, with Mac slightly below the team average.
+
+Recommended actions include **targeted operator training** supported by clear SOPs, focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
 
 ## Business Problem:
 For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear insights into the main causes.
