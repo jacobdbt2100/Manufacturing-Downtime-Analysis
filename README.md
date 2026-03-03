@@ -8,11 +8,20 @@ Production downtime **reduced efficiency** by **36%**, with operator-related iss
 Recommended actions include **targeted operator training** supported by clear SOPs, focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
 
 ## Business Problem:
+
 For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear visibility into the main causes.
 
 This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
 
 ## Methodology:
+
+1. Extracted and transformed production downtime records using Power Query, ensuring data quality and standardised categorisation.
+2. Designed a structured data model in Power BI to enable factor-level, operator-level, and efficiency analysis.
+3. Defined key operational metrics (downtime minutes, downtime %, operator efficiency, Pareto distribution) to quantify impact.
+4. Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
+5. Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
+
+#### Checks
 1. Extracted and cleaned downtime records from the production line excel file using Power Query.
 2. Replaced "No" with *Non-Operator* and "Yes" with *Operator* in the "Operator Error" column of the "Downtime factors" table to ease reading the "Legend" in visuals.
 3. Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
