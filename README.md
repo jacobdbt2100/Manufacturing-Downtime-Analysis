@@ -18,16 +18,30 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 #### 1. Data Preparation
 Imported four Excel tables, cleaned and transformed data in Power Query.
 
+- Downtime factors: 
+- Line downtime: 
+- Line productivity: 
+- Products: 
+
 #### 2. Data Modelling
 Designed relationships, structured fact/dimension logic, and validated model integrity.
 
+- Fact: 
+- Dimensions:
+- Primary Keys: 
+- Foreign Keys: 
+
 #### 3. KPI Development (DAX)
 Built explicit measures and applied context-driven calculations.
+
+SN / KPI / Logic or Definition / Remarks (tables)
 
 #### 4. Exploratory Analysis
 Analysed trends, segments, and drivers across key dimensions.
 OR
 Explored trends, segments, and performance drivers to answer business questions.
+
+Visuals / Charts with purpose
 
 1. Extracted and transformed production downtime records using Power Query, ensuring data quality and standardised categorisation.
 2. Designed a structured data model in Power BI to enable factor-level, operator-level, and efficiency analysis.
