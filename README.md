@@ -30,10 +30,6 @@ ___
 
 ### `Additional Materials`
 
-#### `Manufacturing Downtime Report:`
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="500">
-[test]()
-
 #### `Model View:`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/model view.png " width="500">
 
