@@ -17,23 +17,17 @@ This analysis aimed to identify key drivers of downtime and propose actionable s
 3. Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
 4. Visualized downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
-## Skills:
-- **Power Query:** data transformation
-- **DAX:** metrics calculations
-- **Power BI:** data visualization
-- **PowerPoint:** data storytelling
-
-## Insights & Recommendation:
+## Insights & Recommendations:
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
 ___
 
-### `Additional Materials`
+### Miscellaneous:
 
-#### `Model View:`
+#### Model View
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/model view.png " width="500">
 
-#### `Line downtime table` transformation:
+#### `Line downtime table` transformation
 
 - **`before transformation`**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="500">
