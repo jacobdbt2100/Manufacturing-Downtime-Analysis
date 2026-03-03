@@ -71,4 +71,4 @@ ___
 - `Line downtime table` **after unpivoting**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table_unpivoted.png" width="500">
 
-[Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
+#### 1.2 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
