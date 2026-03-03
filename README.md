@@ -29,10 +29,10 @@ ___
 
 #### `Line downtime table` transformation
 
-- **`before transformation`**
+- **raw** `Line downtime table`
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ original.png" width="500">
 
-- **`after unpivoting`**
+- `Line downtime table` **after unpivoting**
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table _ unpivoted.png" width="500">
 
 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
