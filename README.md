@@ -24,7 +24,7 @@ Imported four Excel tables, cleaned and transformed data in Power Query.
   - `Operator Error` - Boolean flag indicating if `Description` is an operator error (Yes/No).
 - **`Line downtime`**: Fact table containing downtime (in minutes) by factor for each batch
   - `Batch` - Unique identifier for each batch (PK)
-  - `Downtime Factor` - Foreign Key pointing to `Factor` in **`Downtime factors`**
+  - `Downtime Factor` - Points to `Factor` in **`Downtime factors`** (FK)
   - `Downtime Minutes` - Downtime duration in minutes (Integer)
 - **`Line productivity`**: Fact table containing details for each batch produced
 - **`Products`**: Dimension table with details on each product
