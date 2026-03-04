@@ -40,7 +40,7 @@ Designed relationships, structured fact/dimension logic, and validated model int
 #### 3. KPI Development (DAX)
 Built explicit measures and applied context-driven calculations.
 
-| SN | KPI | Logic or Definition | Remarks |
+| SN | KPI | Logic/Definition    | Remarks |
 |----|-----|---------------------|---------|
 | 1  |     |                     |         |
 | 2  |     |                     |         |
