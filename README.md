@@ -30,7 +30,7 @@ Imported four tables from Excel and transformed the data in Power Query - rename
 - **Products** - Dimension table with details on each product - Product_id, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
-Designed a structured dimensional data model defining relationships with correct cardinality to ensure model integrity and enable factor-level, operator-level, and efficiency analysis.
+Designed a dimensional data model defining relationships with correct cardinality to ensure model integrity and enable factor-level, operator-level, and efficiency analysis.
 
 | Primary Key                     | Foreign Key                           | Cardinality  |
 |---------------------------------|---------------------------------------|--------------|
