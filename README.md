@@ -26,20 +26,17 @@ Imported four tables from Excel and transformed the data in Power Query. Key tab
   - `Batch` - Unique identifier for each batch (PK)
   - `Downtime Factor` - Points to `Factor` in **Downtime factors** (FK)
   - `Downtime Minutes` - Downtime duration in minutes (Integer)
-- **Line productivity** - Fact table containing details for each batch produced - Date, Product, Batch, Operator, Start Time, End Time
-- **Products** - Dimension table with details on each product - Product, Flavor, Size, Min batch time
+- **Line productivity** - Fact table containing details for each batch produced - Date, Product_id, Batch, Operator, Start Time, End Time
+- **Products** - Dimension table with details on each product - Product_id, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
 Designed relationships, structured fact/dimension logic, and validated model integrity.
 
-- Fact: 
-- Dimensions:
-- Primary Keys: 
-- Foreign Keys: 
-
-| Primary Key                     | Foreign Key                                     | Cardinality  |
-|---------------------------------|-------------------------------------------------|--------------|
-| Dim 'Downtime factors'[Factor]  | Fct 'Line downtime'[Downtime Factor]            | One-to-Many  |
+| Primary Key                     | Foreign Key                           | Cardinality  |
+|---------------------------------|---------------------------------------|--------------|
+| Dim 'Downtime factors'[Factor]  | Fct 'Line downtime'[Downtime Factor]  | One-to-Many  |
+| Fct 'Line downtime'[Batch]      | Fct 'Line productivity'[Batch]        | One-to-Many  |
+| Dim 'Products'[Product_id]      | Fct 'Line productivity'[Product_id]   | One-to-Many  |
 
 #### 3. KPI Development (DAX)
 Built explicit measures and applied context-driven calculations.
