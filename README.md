@@ -26,8 +26,8 @@ Imported four Excel tables, cleaned and transformed data in Power Query.
   - `Batch` - Unique identifier for each batch (PK)
   - `Downtime Factor` - Points to `Factor` in **`Downtime factors`** (FK)
   - `Downtime Minutes` - Downtime duration in minutes (Integer)
-- **`Line productivity`**: Fact table containing details for each batch produced
-- **`Products`**: Dimension table with details on each product
+- **`Line productivity`**: Fact table containing details for each batch produced; Date, Product, Batch, Operator, Start Time, End Time
+- **`Products`**: Dimension table with details on each product; Product, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
 Designed relationships, structured fact/dimension logic, and validated model integrity.
