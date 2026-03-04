@@ -30,7 +30,7 @@ Imported four tables from Excel and transformed the data in Power Query - rename
 - **Products** - Dimension table with details on each product - Product_id, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
-Designed relationships, structured fact/dimension logic, and validated model integrity, ensuring that all four tables are related with the correct cardinality.
+Designed a structured dimensional data model defining relationships with correct cardinality to ensure model integrity and enable factor-level, operator-level, and efficiency analysis.
 
 | Primary Key                     | Foreign Key                           | Cardinality  |
 |---------------------------------|---------------------------------------|--------------|
@@ -39,7 +39,7 @@ Designed relationships, structured fact/dimension logic, and validated model int
 | Dim 'Products'[Product_id]      | Fct 'Line productivity'[Product_id]   | One-to-Many  |
 
 #### 3. KPI Development (DAX)
-Built explicit measures and applied context-driven calculations.
+Defined key operational metrics (downtime minutes, downtime %, operator efficiency, Pareto distribution) to quantify impact.
 
 | SN | KPI | Logic/Definition    | Remarks |
 |----|-----|---------------------|---------|
@@ -54,11 +54,9 @@ Analysed trends, segments, and drivers across key dimensions.
 OR
 Explored trends, segments, and performance drivers to answer business questions.
 
-Visuals / Charts with purpose
+#### 5. Visuals / Charts with purpose
 
-1. Extracted and transformed production downtime records using Power Query, ensuring data quality and standardised categorisation.
-2. Designed a structured data model in Power BI to enable factor-level, operator-level, and efficiency analysis.
-3. Defined key operational metrics (downtime minutes, downtime %, operator efficiency, Pareto distribution) to quantify impact.
+
 4. Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 5. Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
 
