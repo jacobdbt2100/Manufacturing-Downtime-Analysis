@@ -18,7 +18,7 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 #### 1. Data Preparation
 Imported four Excel tables, cleaned and transformed data in Power Query.
 
-- `Downtime factors`: Dimension table with details on each downtime factor
+- **`Downtime factors`**: Dimension table with details on each downtime factor
 - `Line downtime`: Fact table containing downtime (in minutes) by factor for each batch
 - `Line productivity`: Fact table containing details for each batch produced
 - `Products`: Dimension table with details on each product
