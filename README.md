@@ -39,7 +39,7 @@ Designed a structured dimensional data model defining relationships with correct
 | Dim 'Products'[Product_id]      | Fct 'Line productivity'[Product_id]   | One-to-Many  |
 
 #### 3. KPI Development (DAX)
-Defined key operational metrics (downtime minutes, downtime %, operator efficiency, Pareto distribution) to quantify impact.
+Defined key operational metrics (line efficiency, operator efficiency, downtime minutes, Pareto distribution) to quantify impact.
 
 | SN | KPI | Logic/Definition    | Remarks |
 |----|-----|---------------------|---------|
@@ -50,22 +50,10 @@ Defined key operational metrics (downtime minutes, downtime %, operator efficien
 | 5  |     |                     |         |
 
 #### 4. Exploratory Analysis
-Analysed trends, segments, and drivers across key dimensions.
-OR
-Explored trends, segments, and performance drivers to answer business questions.
+Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 
 #### 5. Visuals / Charts with purpose
-
-
-4. Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
-5. Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
-
-
-
-Replaced "No" with *Non-Operator* and "Yes" with *Operator* in the "Operator Error" column of the "Downtime factors" table to ease reading the "Legend" in visuals.
-
-
-
+Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
 
 ## Insights & Recommendations:
 
