@@ -34,7 +34,13 @@ Designed relationships, structured fact/dimension logic, and validated model int
 #### 3. KPI Development (DAX)
 Built explicit measures and applied context-driven calculations.
 
-SN / KPI / Logic or Definition / Remarks (tables)
+| SN | KPI | Logic or Definition | Remarks |
+|----|-----|---------------------|---------|
+| 1  |     |                     |         |
+| 2  |     |                     |         |
+| 3  |     |                     |         |
+| 4  |     |                     |         |
+| 5  |     |                     |         |
 
 #### 4. Exploratory Analysis
 Analysed trends, segments, and drivers across key dimensions.
