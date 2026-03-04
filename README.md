@@ -18,16 +18,16 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 #### 1. Data Preparation
 Imported four Excel tables, cleaned and transformed data in Power Query.
 
-- **`Downtime factors`** - Dimension table with details on each downtime factor with attributes;
+- **Downtime factors** - Dimension table with details on each downtime factor with attributes;
   - `Factor` - Unique identifier for each downtime factor (PK)
   - `Description` - Including "Emergency stop", "Batch change", "Batch coding error", etc.
   - `Operator Error` - Boolean flag indicating if `Description` is an operator error (Yes/No).
-- **`Line downtime`** - Fact table containing downtime (in minutes) by factor for each batch
+- **Line downtime** - Fact table containing downtime (in minutes) by factor for each batch
   - `Batch` - Unique identifier for each batch (PK)
-  - `Downtime Factor` - Points to `Factor` in **`Downtime factors`** (FK)
+  - `Downtime Factor` - Points to `Factor` in **Downtime factors** (FK)
   - `Downtime Minutes` - Downtime duration in minutes (Integer)
-- **`Line productivity`** - Fact table containing details for each batch produced - Date, Product, Batch, Operator, Start Time, End Time
-- **`Products`** - Dimension table with details on each product - Product, Flavor, Size, Min batch time
+- **Line productivity** - Fact table containing details for each batch produced - Date, Product, Batch, Operator, Start Time, End Time
+- **Products** - Dimension table with details on each product - Product, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
 Designed relationships, structured fact/dimension logic, and validated model integrity.
