@@ -30,7 +30,7 @@ Imported four tables from Excel and transformed the data in Power Query. Key tab
 - **Products** - Dimension table with details on each product - Product_id, Flavor, Size, Min batch time
 
 #### 2. Data Modelling
-Designed relationships, structured fact/dimension logic, and validated model integrity.
+Designed relationships, structured fact/dimension logic, and validated model integrity, ensuring that all four tables are related with the correct cardinality.
 
 | Primary Key                     | Foreign Key                           | Cardinality  |
 |---------------------------------|---------------------------------------|--------------|
