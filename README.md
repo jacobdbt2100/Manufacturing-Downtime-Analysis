@@ -9,7 +9,7 @@ Recommended actions include **targeted operator training** supported by clear SO
 
 ## Business Problem:
 
-For manufacturing companies, downtime directly impacts output and profitability through frequent production delays without clear visibility into the main causes.
+For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes -  without clear visibility into the main causes.
 
 This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
 
@@ -19,9 +19,13 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 Imported four Excel tables, cleaned and transformed data in Power Query.
 
 - **`Downtime factors`**: Dimension table with details on each downtime factor with attributes;
+  - `Factor` - Unique identifier for each downtime factor (PK)
   - `Description` - Including "Emergency stop", "Batch change", "Batch coding error", etc.
   - `Operator Error` - Boolean flag indicating if downtime is caused by operator error (Yes/No).
 - **`Line downtime`**: Fact table containing downtime (in minutes) by factor for each batch
+  - `Batch` - Unique identifier for each batch (PK)
+  - `Downtime Factor` - Foreign Key pointing to "Factor" in `Downtime factors`
+  - `Downtime Minutes` - Downtime duration in minutes (Integer)
 - **`Line productivity`**: Fact table containing details for each batch produced
 - **`Products`**: Dimension table with details on each product
 
