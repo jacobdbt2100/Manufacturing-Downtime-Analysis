@@ -37,6 +37,10 @@ Designed relationships, structured fact/dimension logic, and validated model int
 - Primary Keys: 
 - Foreign Keys: 
 
+| Primary Key                     | Foreign Key               | Logic/Definition    | Cardinality |
+|---------------------------------|---------------------------|---------------------|-------------|
+| Dim 'Downtime factors'[Factor]  |                           |                     |             |
+
 #### 3. KPI Development (DAX)
 Built explicit measures and applied context-driven calculations.
 
