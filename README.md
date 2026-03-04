@@ -18,10 +18,10 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 #### 1. Data Preparation
 Imported four Excel tables, cleaned and transformed data in Power Query.
 
-- **`Downtime factors`**: Dimension table with details on each downtime factor
-- `Line downtime`: Fact table containing downtime (in minutes) by factor for each batch
-- `Line productivity`: Fact table containing details for each batch produced
-- `Products`: Dimension table with details on each product
+- **`Downtime factors`**: `Dimension table` with details on each downtime factor
+- **`Line downtime`**: `Fact table` containing downtime (in minutes) by factor for each batch
+- **`Line productivity`**: `Fact table` containing details for each batch produced
+- **`Products`**: `Dimension table` with details on each product
 
 #### 2. Data Modelling
 Designed relationships, structured fact/dimension logic, and validated model integrity.
@@ -55,8 +55,12 @@ Visuals / Charts with purpose
 4. Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 5. Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
 
-#### Checks
+
+
 Replaced "No" with *Non-Operator* and "Yes" with *Operator* in the "Operator Error" column of the "Downtime factors" table to ease reading the "Legend" in visuals.
+
+
+
 
 ## Insights & Recommendations:
 
