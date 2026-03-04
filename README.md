@@ -52,7 +52,7 @@ Defined key operational metrics (line efficiency, operator efficiency, downtime 
 #### 4. Exploratory Analysis
 Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 
-#### 5. Visuals / Charts with purpose
+#### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
 
 ## Insights & Recommendations:
