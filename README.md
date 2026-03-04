@@ -50,10 +50,7 @@ Visuals / Charts with purpose
 5. Developed a structured Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
 
 #### Checks
-1. Extracted and cleaned downtime records from the production line excel file using Power Query.
-2. Replaced "No" with *Non-Operator* and "Yes" with *Operator* in the "Operator Error" column of the "Downtime factors" table to ease reading the "Legend" in visuals.
-3. Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
-4. Visualized downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
+Replaced "No" with *Non-Operator* and "Yes" with *Operator* in the "Operator Error" column of the "Downtime factors" table to ease reading the "Legend" in visuals.
 
 ## Insights & Recommendations:
 
