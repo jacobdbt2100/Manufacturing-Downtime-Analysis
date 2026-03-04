@@ -39,7 +39,7 @@ Designed a dimensional data model defining relationships with correct cardinalit
 | Dim 'Products'[Product_id]      | Fct 'Line productivity'[Product_id]   | One-to-Many  |
 
 #### 3. KPI Development (DAX)
-Defined key operational metrics (line efficiency, operator efficiency, downtime minutes, Pareto distribution) to quantify impact.
+Defined key operational metrics to quantify downtime impact.
 
 | SN | KPI                        | Logic/Definition                            | Remarks                                            |
 |----|----------------------------|---------------------------------------------|----------------------------------------------------|
