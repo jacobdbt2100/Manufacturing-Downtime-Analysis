@@ -41,13 +41,13 @@ Designed a dimensional data model defining relationships with correct cardinalit
 #### 3. KPI Development (DAX)
 Defined key operational metrics (line efficiency, operator efficiency, downtime minutes, Pareto distribution) to quantify impact.
 
-| SN | KPI | Logic/Definition    | Remarks |
-|----|-----|---------------------|---------|
-| 1  |     |                     |         |
-| 2  |     |                     |         |
-| 3  |     |                     |         |
-| 4  |     |                     |         |
-| 5  |     |                     |         |
+| SN | KPI                        | Logic/Definition                            | Remarks                                            |
+|----|----------------------------|---------------------------------------------|----------------------------------------------------|
+| 1  | Overall Line Efficiency    | (Planned Batch Time) / (Actual Batch Time)  |                                                    |
+| 2  | Operators Efficiency       |                                             |                                                    |
+| 3  | Total Downtime Minutes     | SUM(Downtime Minutes)                       | Actual Batch Minutes - Planned Batch Mainutes      |
+| 4  | Pareto Distribution        |                                             |                                                    |
+| 5  |                            |                                             |                                                    |
 
 #### 4. Exploratory Analysis
 Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
