@@ -21,7 +21,7 @@ Imported four Excel tables, cleaned and transformed data in Power Query.
 - **`Downtime factors`**: Dimension table with details on each downtime factor with attributes;
   - `Factor` - Unique identifier for each downtime factor (PK)
   - `Description` - Including "Emergency stop", "Batch change", "Batch coding error", etc.
-  - `Operator Error` - Boolean flag indicating if downtime is caused by operator error (Yes/No).
+  - `Operator Error` - Boolean flag indicating if `Description` is an operator error (Yes/No).
 - **`Line downtime`**: Fact table containing downtime (in minutes) by factor for each batch
   - `Batch` - Unique identifier for each batch (PK)
   - `Downtime Factor` - Foreign Key pointing to "Factor" in `Downtime factors`
