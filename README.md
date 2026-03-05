@@ -52,7 +52,7 @@ Defined key operational metrics to quantify downtime impact.
 Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 
 #### 5. Data Visualisation & Insight Communication
-Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights to clearly communicate operational risks and priorities.
+Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
 
 ## Insights & Recommendations:
 
