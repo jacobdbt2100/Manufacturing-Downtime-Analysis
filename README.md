@@ -41,7 +41,7 @@ Designed a dimensional data model defining relationships with correct cardinalit
 #### 3. KPI Development (DAX)
 Defined key operational metrics to quantify downtime impact.
 
-| SN | KPI                        | Logic/Definition                                              | Remarks                                            |
+| SN | KPI                        | Logic/Definition                                              | Remark                                             |
 |----|----------------------------|---------------------------------------------------------------|----------------------------------------------------|
 | 1  | Overall Line Efficiency    | (Planned Batch Time) / (Actual Batch Time)                    | Measures adherence to planned production time      |
 | 2  | Operators Efficiency       | Overall Line Efficiency filtered to operator-related causes   | Isolates operator impact only                      |
