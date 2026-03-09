@@ -29,7 +29,7 @@ Imported four tables from Excel and transformed the data in Power Query - rename
 - **Line productivity** - Fact table containing details for each batch produced - Date, Product_id, Batch, Operator, Start Time, End Time
 - **Products** - Dimension table with details on each product - Product_id, Flavor, Size, Min batch time
 
-#### 2. Data Modelling
+### 2. Data Modelling
 Designed a dimensional data model defining relationships with correct cardinality to ensure model integrity and enable factor-level, operator-level, and efficiency analysis.
 
 | Primary Key                     | Foreign Key                           | Cardinality  |
@@ -38,7 +38,7 @@ Designed a dimensional data model defining relationships with correct cardinalit
 | Fct 'Line downtime'[Batch]      | Fct 'Line productivity'[Batch]        | One-to-Many  |
 | Dim 'Products'[Product_id]      | Fct 'Line productivity'[Product_id]   | One-to-Many  |
 
-#### 3. KPI Development (DAX)
+### 3. KPI Development (DAX)
 Defined key operational metrics to quantify downtime impact.
 
 | SN | KPI                        | Logic/Definition                                              | Remark                                             |
@@ -48,10 +48,10 @@ Defined key operational metrics to quantify downtime impact.
 | 3  | Total Downtime Minutes     | SUM(Downtime Minutes)                                         | Actual Batch Minutes - Planned Batch Mainutes      |
 | 4  | Pareto Distribution        | Cumulative % of SUM(Downtime Minutes) by ranked cause         | Highlights major downtime drivers (80% impact)     |
 
-#### 4. Exploratory Analysis
+### 4. Exploratory Analysis
 Conducted exploratory and root-cause analysis to isolate high-impact downtime drivers and operator-specific patterns.
 
-#### 5. Data Visualisation & Insight Communication
+### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
 
 ## Insights & Recommendations:
