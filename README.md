@@ -15,7 +15,7 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 
 ## Methodology:
 
-#### 1. Data Preparation
+### 1. Data Preparation
 Imported four tables from Excel and transformed the data in Power Query - renamed columns, unpivoted production log (Line downtime table), and standardised data types. Key table attributes are summarised here:
 
 - **Downtime factors** - Dimension table with details on each downtime factor with attributes;
