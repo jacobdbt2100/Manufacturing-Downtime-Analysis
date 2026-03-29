@@ -7,6 +7,25 @@ Downtime extended production time by 23 hours, **reducing line efficiency** by *
 
 Recommended actions include **targeted operator training** supported by clear Standard Operating Procedures (SOPs), focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
 
+| Metric | Detail |
+|-------|--------|
+| Production Time Increase | +23 hrs |
+| Line Efficiency Loss | -36% |
+| Operator vs Non-Operator Downtime | Operator +12% higher |
+| Top Downtime Contribution | Top 5 factors = 80% |
+| Operator Error Drivers | Machine adj., Batch change, Batch coding |
+| Mac – Primary Downtime Cause | Batch change |
+| Other Operators – Primary Cause | Machine adjustment |
+| Avg Operator Efficiency | 76% |
+| Mac Efficiency | Slightly below avg |
+| Training Action | Targeted operator training + SOPs |
+| Mac Coaching Focus | Batch change process |
+| Other Operators Training | Machine adjustment skills |
+| Maintenance Action | Strengthen preventive maintenance |
+| Monitoring Action | Real-time stock tracking |
+
+
+
 ## Business Problem:
 
 For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes -  without clear visibility into the main causes.
