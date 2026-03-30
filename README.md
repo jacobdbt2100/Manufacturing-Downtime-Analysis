@@ -7,7 +7,7 @@ Downtime extended production time by 23 hours, **reducing line efficiency** by *
 
 Recommended actions include **targeted operator training** supported by clear Standard Operating Procedures (SOPs), focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
 
-| Metric | Detail |
+| Finding | Detail |
 |-------|--------|
 | Production Time Increase | +23 hrs |
 | Line Efficiency Loss | -36% |
