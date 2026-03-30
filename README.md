@@ -5,20 +5,20 @@ ___
 
 | Finding | Detail |
 |---------|--------|
-| Overall Line Efficiency  | 64% |
-| Production Time Extension | +23 hrs |
-| Operator vs Non-Operator Downtime | Operator +12% higher |
-| Top Downtime Contribution | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
-| Operator Error Drivers | Machine adjustment, Batch change, Batch coding error |
-| Avg Operator Efficiency | 76% |
+| **Overall Line Efficiency**  | 64% |
+| **Production Time Extension** | +23 hrs |
+| **Operator vs Non-Operator Downtime** | Operator +12% higher |
+| **Top Downtime Contribution** | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
+| **Operator Error Drivers** | Machine adjustment, Batch change, Batch coding error |
+| **Avg Operator Efficiency** | 76% |
 
 | Recommendation | Detail |
 |----------------|--------|
-| Training Action | Targeted operator training supported by clear Standard Operating Procedures (SOPs) |
-| Mac Coaching Focus | Batch change process |
-| Other Operators Training | Machine adjustment skills |
-| Maintenance Action | Strengthen preventive maintenance |
-| Inventory Monitoring Action | Real-time stock tracking |
+| **Training Action** | Targeted operator training supported by clear Standard Operating Procedures (SOPs) |
+| **Mac Coaching Focus** | Batch change process |
+| **Other Operators Training** | Machine adjustment skills |
+| **Maintenance Action** | Strengthen preventive maintenance |
+| **Inventory Monitoring Action** | Real-time stock tracking |
 
 ## Business Problem:
 
