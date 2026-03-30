@@ -9,15 +9,12 @@ Recommended actions include **targeted operator training** supported by clear St
 
 | Finding | Detail |
 |-------|--------|
-| Production Time Increase | +23 hrs |
-| Line Efficiency Loss | -36% |
+| Overall Line Efficiency  | 64% |
+| Production Time Extension | +23 hrs |
 | Operator vs Non-Operator Downtime | Operator +12% higher |
-| Top Downtime Contribution | Top 5 factors = 80% |
-| Operator Error Drivers | Machine adj., Batch change, Batch coding |
-| Mac – Primary Downtime Cause | Batch change |
-| Other Operators – Primary Cause | Machine adjustment |
+| Top Downtime Contribution | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
+| Operator Error Drivers | Machine adjustment, Batch change, Batch coding error |
 | Avg Operator Efficiency | 76% |
-| Mac Efficiency | Slightly below avg |
 | Training Action | Targeted operator training + SOPs |
 | Mac Coaching Focus | Batch change process |
 | Other Operators Training | Machine adjustment skills |
