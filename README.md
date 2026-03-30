@@ -20,6 +20,11 @@ ___
 | **Maintenance Action** | Strengthen preventive maintenance |
 | **Inventory Monitoring Action** | Real-time stock tracking |
 
+
+## Key Findings Visualised:
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
+
 ## Business Problem:
 
 For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes -  without clear visibility into the main causes.
@@ -66,10 +71,6 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 
 ### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
-
-## Insights & Recommendations:
-
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
 
 ___
 
