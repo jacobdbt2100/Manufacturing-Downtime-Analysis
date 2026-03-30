@@ -3,25 +3,22 @@ ___
 
 ## Executive Summary:
 
-Downtime extended production time by 23 hours, **reducing line efficiency** by **36%**, with **operator-related** issues contributing **12% more** to downtime than non-operator causes. **Five factors** account for **80% of total downtime**, three (machine adjustment, batch change, batch coding) linked to operator errors. Mac’s downtime is mainly driven by **batch changes**, while other operators struggle more with **machine adjustments**. Average operator efficiency stands at 76%, with Mac slightly below the team average.
-
-Recommended actions include **targeted operator training** supported by clear Standard Operating Procedures (SOPs), focused batch change coaching for Mac, machine adjustment training for other operators, strengthened **preventive maintenance**, and **real-time tracking** to maintain optimal stock levels.
-
 | Finding | Detail |
-|-------|--------|
+|---------|--------|
 | Overall Line Efficiency  | 64% |
 | Production Time Extension | +23 hrs |
 | Operator vs Non-Operator Downtime | Operator +12% higher |
 | Top Downtime Contribution | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
 | Operator Error Drivers | Machine adjustment, Batch change, Batch coding error |
 | Avg Operator Efficiency | 76% |
-| Training Action | Targeted operator training + SOPs |
+
+| Recommendation | Detail |
+|----------------|--------|
+| Training Action | Targeted operator training supported by clear Standard Operating Procedures (SOPs) |
 | Mac Coaching Focus | Batch change process |
 | Other Operators Training | Machine adjustment skills |
 | Maintenance Action | Strengthen preventive maintenance |
-| Monitoring Action | Real-time stock tracking |
-
-
+| Inventory Monitoring Action | Real-time stock tracking |
 
 ## Business Problem:
 
