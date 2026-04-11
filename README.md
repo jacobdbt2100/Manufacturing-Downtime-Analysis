@@ -8,7 +8,7 @@ ___
 | **Overall Line Efficiency**  | 64% |
 | **Production Time Extension** | +23 hrs |
 | **Operator vs Non-Operator Downtime** | Operator +12% higher |
-| **Top Downtime Contribution** | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
+| **Top Downtime Causes** | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
 | **Operator Error Drivers** | Machine adjustment, Batch change, Batch coding error |
 | **Avg Operator Efficiency** | 76% |
 
