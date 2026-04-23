@@ -1,33 +1,20 @@
 # Manufacturing Downtime Analysis
 ___
 
-## Executive Summary:
-
-- **Overall Line Efficiency**: 64%
-- Production Time Extension: 23 hrs
-| **Operator vs Non-Operator Downtime** | Operator +12% higher |
-| **Top Downtime Causes** | Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error |
-| **Operator Error Drivers** | Machine adjustment, Batch change, Batch coding error |
-| **Avg Operator Efficiency** | 76% |
-
-| Recommendation | Detail |
-|----------------|--------|
-| **Training Action** | Targeted operator training supported by clear Standard Operating Procedures (SOPs) |
-| **Mac Coaching Focus** | Batch change process |
-| **Other Operators Training** | Machine adjustment skills |
-| **Maintenance Action** | Strengthen preventive maintenance |
-| **Inventory Monitoring Action** | Real-time stock tracking |
-
-
-## Key Findings Visualised:
-
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
-
-## Business Problem:
+## Project Objective:
 
 For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes -  without clear visibility into the main causes.
 
 This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
+
+## Key Findings:
+
+- **Overall Line Efficiency**: 64%
+- **Production Time Extension**: +23 hours
+- **Operator vs Non-Operator Downtime**: Operator +12% higher
+- **Top Downtime Causes**: Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error
+- **Operator Error Drivers**: Machine adjustment, Batch change, Batch coding error
+- **Avg Operator only Efficiency**: 76%
 
 ## Methodology:
 
@@ -70,6 +57,17 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 ### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
 
+## Key Findings Visualised:
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
+
+## Recommendations
+
+- **Training Action**: Targeted operator training supported by clear Standard Operating Procedures (SOPs)
+- **Mac Coaching Focus**: Batch change process
+- **Other Operators Training**: Machine adjustment skills
+- **Maintenance Action**: Strengthen preventive maintenance
+- **Inventory Monitoring Action**: Real-time stock tracking
 ___
 
 #### Miscellaneous:
