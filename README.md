@@ -62,6 +62,16 @@ Developed a Power BI report using data storytelling principles, with descriptive
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
 ___
 
+## Author
+
+Jacob Joshua
+
+Data Analyst - Product & Behaviour Analytics
+
+- [GitHub](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
+- [LinkedIn](https://www.linkedin.com/in/jacobjoshua675/)
+___
+
 #### Miscellaneous:
 
 ##### M.1 `Line downtime table` transformation
