@@ -57,17 +57,9 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 ### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
 
-## Key Findings Visualised:
+## Key Findings Visualised with Recommendations:
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
-
-## Recommendations
-
-- **Training Action**: Targeted operator training supported by clear Standard Operating Procedures (SOPs)
-- **Mac Coaching Focus**: Batch change process
-- **Other Operators Training**: Machine adjustment skills
-- **Maintenance Action**: Strengthen preventive maintenance
-- **Inventory Monitoring Action**: Real-time stock tracking
 ___
 
 #### Miscellaneous:
