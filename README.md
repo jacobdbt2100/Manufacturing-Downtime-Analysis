@@ -64,7 +64,7 @@ ___
 
 ## Author
 
-Jacob Joshua
+**Jacob Joshua**
 
 Data Analyst - Product & Behaviour Analytics
 
