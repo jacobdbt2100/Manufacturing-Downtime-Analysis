@@ -9,12 +9,12 @@ This analysis identifies key drivers of downtime and proposes actionable strateg
 
 ## Key Findings:
 
-- **Overall Line Efficiency**: 64%
-- **Production Time Extension**: +23 hours
-- **Operator vs Non-Operator Downtime**: Operator +12% higher
-- **Top Downtime Causes**: Top 5 factors = 80%; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error
-- **Operator Error Drivers**: Machine adjustment, Batch change, Batch coding error
-- **Avg Operator only Efficiency**: 76%
+- Overall Line Efficiency: **64%**
+- Production Time Extension: **+23 hours**
+- Operator vs Non-Operator Downtime: **Operator +12% higher**
+- Top Downtime Causes: Top 5 factors = **80%**; Machine adjustment, Machine failure, Inventory shortage, Batch change, Batch coding error
+- Operator Error Drivers: **Machine adjustment, Batch change, Batch coding error**
+- Avg Operator only Efficiency: **76%**
 
 ## Methodology:
 
