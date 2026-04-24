@@ -3,9 +3,15 @@ ___
 
 ## Project Objective:
 
-For manufacturing companies, downtime directly impacts output and profitability through frequent production delays - such as machine breakdowns, power outages, inventory shortages, or operator mistakes -  without clear visibility into the main causes.
+For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** such as;
+- Machine breakdowns
+- Power outages
+- Inventory shortages
+- Operator mistakes
 
-This analysis identifies key drivers of downtime and proposes actionable strategies to reduce operational disruptions.
+These challenges occur without clear visibility into the main causes.
+
+This analysis identifies **key drivers of downtime** and proposes actionable **strategies to reduce operational disruptions**.
 
 ## Key Findings:
 
