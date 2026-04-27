@@ -89,3 +89,13 @@ ___
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/Line downtime table_unpivoted.png" width="500">
 
 ##### M.2 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
+
+### Author
+
+**Jacob Joshua**
+
+jacobjoshua675@gmail.com
+
+- [X(Twitter)](https://x.com/jacobdbt2100_2)
+- [LinkedIn](https://www.linkedin.com/in/jacobjoshua675/)
+- [GitHub](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
