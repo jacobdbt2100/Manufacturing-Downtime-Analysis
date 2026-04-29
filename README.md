@@ -3,7 +3,7 @@ ___
 
 ## Project Objective:
 
-For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** such as;
+For manufacturing companies, **downtime** directly **impacts output and profitability** through **frequent production delays** as a result of;
 - Machine breakdowns
 - Power outages
 - Inventory shortages
