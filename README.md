@@ -22,6 +22,10 @@ This analysis identifies **key drivers of downtime** and proposes actionable **s
 - Operator Error Drivers: **Machine adjustment, Batch change, Batch coding error**
 - Avg Operator only Efficiency: **76%**
 
+### Key Findings Visualised with Recommendations:
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
+
 ## Methodology:
 
 ### 1. Data Preparation
@@ -62,10 +66,6 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 
 ### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
-
-## Key Findings Visualised with Recommendations:
-
-<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="1000">
 ___
 
 ## Author
