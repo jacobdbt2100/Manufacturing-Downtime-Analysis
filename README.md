@@ -72,7 +72,7 @@ ___
 
 **Jacob Joshua**
 
-Data Analyst - Product & Behaviour Analytics
+Data Analyst
 
 - [GitHub](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
 - [LinkedIn](https://www.linkedin.com/in/jacobjoshua675/)
