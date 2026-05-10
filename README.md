@@ -68,16 +68,6 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
 ___
 
-## Author
-
-**Jacob Joshua**
-
-Data Analyst
-
-- [GitHub](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
-- [LinkedIn](https://www.linkedin.com/in/jacobjoshua675/)
-___
-
 #### Miscellaneous:
 
 ##### M.1 `Line downtime table` transformation
@@ -90,12 +80,11 @@ ___
 
 ##### M.2 [Data set](https://mavenanalytics.io/data-playground/manufacturing-downtime)
 
-### Author
+## Author
 
 **Jacob Joshua**
 
 jacobjoshua675@gmail.com
 
-- [X(Twitter)](https://x.com/jacobdbt2100_2)
 - [LinkedIn](https://www.linkedin.com/in/jacobjoshua675/)
-- [GitHub](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
+- [Portfolio Projects](https://github.com/jacobdbt2100/Data-Analytics-Projects/blob/main/README.md)
