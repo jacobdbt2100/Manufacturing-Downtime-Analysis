@@ -66,6 +66,13 @@ Conducted exploratory and root-cause analysis to isolate high-impact downtime dr
 
 ### 5. Data Visualisation & Insight Communication
 Developed a Power BI report using data storytelling principles, with descriptive narration and highlighted insights, visualising top downtime drivers, operator-specific issues, and factor-level impacts to clearly communicate operational risks and prioritised actions.
+
+### 6. Project Updates
+This section documents issues, observations, and design improvements identified during or after project documentation. Updates will be made periodically rather than for every individual observation, particularly where changes would require extensive revisions to completed components.
+
+**Inventory Shortage Analysis**
+
+Further analysis is needed to identify the specific inventories contributing to shortages, similar to the operator-level analysis.
 ___
 
 #### Miscellaneous:
